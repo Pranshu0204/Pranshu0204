@@ -47,7 +47,7 @@
 - 📊 I'm **evaluation-obsessed** — every system I ship has a `/benchmark` endpoint, JSON-parse rates, MAE per dimension, or tier-accuracy reports
 - 🛡️ I architect for **responsible AI** — decoupling bias detection from scoring, separating observation from influence, designing for auditability
 - 🛣️ My foundations are in **classical CV** — OpenCV + Hough transforms, real-time stream processing with confidence scoring
-- 📍 Based in Chennai 🇮🇳 — currently exploring research collaborations in healthcare AI and applied ML
+- 📍 Based in Darmstadt 🇩🇪 — currently exploring research collaborations in healthcare AI and applied ML
 
 ---
 
