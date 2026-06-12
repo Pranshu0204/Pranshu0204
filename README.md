@@ -1,248 +1,229 @@
-<!-- ============================================================
-     HERO BLOCK
-     Design decision: Dark gradient (deep navy → emerald) signals
-     "applied ML systems engineer" rather than "data viz dashboard kid".
-     The tagline names what he actually ships, not generic ML buzzwords.
-     ============================================================ -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=220&section=header&text=Pranshu%20Gupta&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building+LLM+systems+that+ship+%E2%80%94+RAG%2C+multi-agent%2C+fine-tuning&descSize=15&descAlignY=58&descColor=10b981" />
-</p>
-
-<!-- ============================================================
-     TYPING TAGLINE
-     Design decision: Lines pulled from real projects — RecruitSense,
-     AEGIS, dual-engine sentiment. Color #10b981 (emerald) sets the
-     accent palette used consistently throughout.
-     ============================================================ -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Applied+AI+%2F+LLM+Systems+Engineer;RAG+%2B+Multi-agent+DAGs+%2B+QLoRA+fine-tuning;Building+evaluation-first+ML%2C+not+demo-first;Clinical+AI+%E2%80%A2+Recruiting+AI+%E2%80%A2+Computer+Vision;Chennai+%E2%80%A2+always+shipping" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,20,25&height=240&section=header&text=Pranshu%20Gupta&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Applied+AI+Engineer+%C2%B7+LLM+Systems+%C2%B7+Evaluation-First&descSize=14&descAlignY=56&descColor=10b981" alt="banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Pranshu0204">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=700&repeat=true&lines=StyleShift+%C2%B7+intrinsic+multi-author+style+change+detection;RecruitSense+%C2%B7+RAG+fusion+%2B+LangGraph+DAG+%2B+QLoRA+fine-tuning;AEGIS+%C2%B7+clinician-supervised+multimodal+AI%2C+9+languages;Evaluation-first%3A+F1+%2B+AUC-PR+%2B+Brier%2C+never+raw+accuracy;Darmstadt+%E2%86%92+wherever+the+next+hard+problem+is" alt="typing intro" />
   </a>
-  <a href="https://twitter.com/Pranshu45581230">
-    <img src="https://img.shields.io/badge/Twitter%2FX-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Pranshu0204&style=for-the-badge&color=10b981&label=PROFILE+VIEWS" />
 </p>
 
----
-
-<!-- ============================================================
-     ABOUT ME BLOCK
-     Design decision: Each bullet is grounded in a SHIPPED project.
-     No "I'm passionate about AI" — instead, "I built an X that does Y".
-     The last line frames his philosophy, which differentiates him
-     from every other ML resume.
-     ============================================================ -->
-
-## 🧠 About Me
-
-- 🤖 I build **production-grade LLM systems** — RAG fusion pipelines, multi-agent DAGs (LangGraph), and local-first QLoRA fine-tuning with auto device detection (CUDA / MPS / CPU)
-- 🏥 I work on **clinician-supervised clinical AI** — multimodal triage agents on Gemini Live API with structured JSON outputs across 9 languages
-- 📊 I'm **evaluation-obsessed** — every system I ship has a `/benchmark` endpoint, JSON-parse rates, MAE per dimension, or tier-accuracy reports
-- 🛡️ I architect for **responsible AI** — decoupling bias detection from scoring, separating observation from influence, designing for auditability
-- 🛣️ My foundations are in **classical CV** — OpenCV + Hough transforms, real-time stream processing with confidence scoring
-- 📍 Based in Darmstadt 🇩🇪 — currently exploring research collaborations in healthcare AI and applied ML
-
----
-
-<!-- ============================================================
-     TECH STACK BLOCK
-     Design decision: Reorganized around what he ACTUALLY ships now.
-     LLM tooling first (LangGraph, Qdrant, HuggingFace, Gemini),
-     then ML foundations, then web/infra. No aspirational padding.
-     ============================================================ -->
-
-## ⚡ Tech Stack
-
-**LLM & Agents**
-
-<p>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/PEFT%2FQLoRA-FF6F00?style=for-the-badge" />
+<p align="center">
+  <a href="https://github.com/Pranshu0204"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Pranshu0204&style=for-the-badge&color=10b981&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
-**RAG & Data**
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/BGE--large-10b981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<h3 align="left">// whoami</h3>
+
+<p align="left">
+<table>
+  <tr><td>🎓</td><td>MSc Computer Science · TU Darmstadt · LLMs, CV, PGMs, Quantum Computing, Scalable Data Management</td></tr>
+  <tr><td>📍</td><td>Darmstadt, DE 🇩🇪 — by way of Chennai, IN</td></tr>
+  <tr><td>🌙</td><td>Architecture decisions happen on late-night walks. The whiteboard comes later.</td></tr>
+  <tr><td>🎮</td><td>Call of Duty Mobile between training runs</td></tr>
+  <tr><td>📖</td><td>Reads documentation the way other people read fiction. Unironically.</td></tr>
+  <tr><td>🤝</td><td>Open to: healthcare-AI research collabs, applied ML roles, LLM systems engineering</td></tr>
+  <tr><td>🧭</td><td>Currently circling: evaluation frameworks, responsible AI design, multi-agent orchestration, fine-tuning pipelines</td></tr>
+  <tr><td>⚡</td><td><i>"If it has no eval loop, it's just a demo."</i></td></tr>
+</table>
 </p>
 
-**ML / CV / NLP**
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
-  <img src="https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TextBlob-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-**Backend & Web**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,typescript,vite,tailwind" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
-</p>
-
-**Languages & Infra**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,docker,git,github,linux,vscode" />
-</p>
-
----
-
-<!-- ============================================================
-     FEATURED PROJECTS BLOCK
-     Design decision: 4 projects in a 2-column table — RecruitSense
-     and AEGIS are the headline acts, then sentiment + lane detection
-     show range (CV, NLP, evaluation). Each card emphasizes the
-     SYSTEMS DESIGN DECISION that makes it interesting, not a generic
-     "what it does" blurb.
-     ============================================================ -->
-
-## 🚀 Featured Projects
+<h3 align="left">// featured projects</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/Pranshu0204">RecruitSense</a></h3>
-      <p><b>LLM-powered resume screener with RAG, multi-agent DAG, bias decoupling, and local QLoRA fine-tuning.</b></p>
-      <p>5-dimension weighted scoring · RAG Fusion (Qdrant + BGE-large) with Reciprocal Rank Fusion · LangGraph DAG running RAG ∥ bias in parallel · deterministic composite math · QLoRA pipeline auto-detecting CUDA/MPS/CPU.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logo=qdrant&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/QLoRA-FF6F00?style=flat-square" />
-      </p>
+      <h3>🔬 StyleShift <img src="https://img.shields.io/badge/NEW-10b981?style=flat-square" alt="NEW" /> ⭐</h3>
+      <b>Intrinsic multi-author style change detection</b> — no reference texts, no author profiles, pure internal comparison, framed as pairwise binary classification.
+      <br/><br/>
+      Dual-stream ensemble: 163-dim stylometric difference vectors → SVM, plus a Siamese Transformer over frozen <code>all-mpnet-base-v2</code>, fused by an LR meta-learner trained strictly on the validation split — leakage kept out by construction. Three difficulty tiers (Easy/Medium/Hard by topic diversity) double as a built-in ablation axis; the Hard tier shows exactly where pure stylometry hits its ceiling once topic is controlled — consistent with published PAN SOTA.
+      <br/><br/>
+      <code>Ensemble Macro F1 = 0.606</code> · <code>AUC-PR = 0.404</code> · <code>PAN @ CLEF 2025</code>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/sentence--transformers-10b981?style=flat-square" alt="sentence-transformers" />
+      <br/><br/>
+      <a href="https://github.com/Pranshu0204/StyleShift">→ repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/Pranshu0204/Aegis">AEGIS — Clinical AI Assistant</a></h3>
-      <p><b>Clinician-supervised, non-diagnostic multimodal AI for overloaded clinics. Voice + docs + text, 9 languages, 6 modules.</b></p>
-      <p>Built on Gemini 2.0 + Live API · structured JSON triage with severity-coded UI · role-aware prompts (Clinician / Patient / Caregiver) · WebSocket live voice via LiveClient · graceful Markdown fallback when JSON parsing fails.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      </p>
+      <h3>🧭 RecruitSense</h3>
+      <b>Agentic resume intelligence</b> — bias detection runs in a parallel LangGraph branch, decoupled from scoring by design, not as an afterthought.
+      <br/><br/>
+      RAG Fusion with Reciprocal Rank Fusion over Qdrant, parallel DAG orchestration, and QLoRA fine-tuning with automatic device detection (CUDA/MPS/CPU). Retrieval and judgment are separate concerns, wired that way on purpose.
+      <br/><br/>
+      <code>RRF fusion</code> · <code>parallel DAG</code> · <code>QLoRA</code>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/PEFT%2FQLoRA-3b82f6?style=flat-square" alt="PEFT/QLoRA" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/Pranshu0204/Twitter-Sentiment-Analysis-using-tweepy">Dual-Engine Sentiment Analysis</a></h3>
-      <p><b>TextBlob lexicon vs Gemini 2.0 Flash — side-by-side with a benchmarking endpoint.</b></p>
-      <p>Two engines on the same input · agreement flag + polarity delta · <code>/benchmark</code> reports per-method accuracy and per-sample correctness · graceful LLM fallback on quota exhaustion. Designed as a mini eval framework, not just a classifier.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/TextBlob-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      </p>
+      <h3>🩺 AEGIS — Clinical AI Assistant</h3>
+      <b>Non-diagnostic by design</b> — structured JSON triage with graceful Markdown fallback when parsing fails, because clinical systems can't crash silently.
+      <br/><br/>
+      Clinician-supervised multimodal assistant: image + text intake, severity triage, and localization across 9 languages, streamed over WebSockets.
+      <br/><br/>
+      <code>9 languages</code> · <code>graceful-degradation parser</code>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Gemini%202.0-3b82f6?style=flat-square" alt="Gemini 2.0" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/WebSocket-10b981?style=flat-square" alt="WebSocket" />
     </td>
     <td width="50%" valign="top">
-      <h3>🛣️ <a href="https://github.com/Pranshu0204/Road-Lane-Detection-System">Road Lane Detection System</a></h3>
-      <p><b>Real-time CV pipeline with structured per-frame stream logging and confidence scoring.</b></p>
-      <p>OpenCV + Canny + Hough transform · per-frame JSON records (status, confidence, fps) · DETECTED / PARTIAL / NO_LANES tiers · summary metrics on exit · annotated video output. Treats CV like a streaming data system, not a script.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      </p>
+      <h3>⚖️ Dual-Engine Sentiment Analysis</h3>
+      <b>Built as a mini eval framework</b> — same input, two engines, one <code>/benchmark</code> endpoint reporting per-method accuracy and per-sample agreement.
+      <br/><br/>
+      LLM-based and lexicon-based sentiment side by side, so disagreement is a first-class signal instead of noise you average away.
+      <br/><br/>
+      <code>/benchmark endpoint</code> · <code>per-sample agreement</code>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/Gemini-3b82f6?style=flat-square" alt="Gemini" />
+      <img src="https://img.shields.io/badge/TextBlob-10b981?style=flat-square" alt="TextBlob" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛣️ Road Lane Detection System</h3>
+      <b>Treats CV as a streaming data system</b> — per-frame JSON records with <code>DETECTED / PARTIAL / NO_LANES</code> tier classification and summary metrics on exit.
+      <br/><br/>
+      Classical pipeline (Canny + Hough + ROI masking) instrumented like a production service, not a notebook demo.
+      <br/><br/>
+      <code>per-frame JSON telemetry</code>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 Research & Experiments</h3>
+      <b>Beyond the Siren</b> — emergency-response analysis work; the depth indicator, not the headline.
+      <br/><br/>
+      <b>Maxwell's Rule in AR</b> — physics visualization in augmented reality, because some intuitions need to be walked around, not read about.
+      <br/><br/>
+      <code>research</code> · <code>AR / physics</code>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Research-10b981?style=flat-square" alt="Research" />
+      <img src="https://img.shields.io/badge/AR-3b82f6?style=flat-square" alt="AR" />
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><b>🔬 More projects — research & experiments</b></summary>
-  <br/>
-  <ul>
-    <li><a href="https://github.com/Pranshu0204/Beyond-the-Siren-Evaluation-of-Equitable-Emergency-Care-in-Low-and-Middle-Income-Countries"><b>Beyond the Siren</b></a> — Evaluation framework for equitable emergency care in low- and middle-income countries</li>
-    <li><a href="https://github.com/Pranshu0204/MLJAK2-Biotech-"><b>MLJAK2-Biotech</b></a> — ML applied to biotech / JAK2 research workflows</li>
-    <li><b>Company Culture Analysis</b> — NLP-driven culture analysis from employee reviews using sentiment scoring, tokenization, and word-frequency visualization</li>
-    <li><a href="https://github.com/Pranshu0204/Maxwell-s-Right-Hand-thumb-Rule-using-Augmented-Reality"><b>Maxwell's Rule in AR</b></a> — WebXR experience visualizing electromagnetic theory ⭐</li>
-  </ul>
+<summary><b>More projects</b></summary>
+<br/>
+<ul>
+  <li><b>MLJAK2-Biotech</b> — ML pipeline for JAK2 mutation analysis in biotech workflows.</li>
+  <li><b>Company Culture Analysis</b> — NLP over employee-review corpora to surface culture signals beyond star ratings.</li>
+</ul>
 </details>
 
----
+<br/>
 
-<!-- ============================================================
-     GITHUB STATS BLOCK
-     Design decision: tokyonight theme matches the dark + emerald
-     palette established in the hero. Side-by-side stats + streak
-     gives a clean two-pane look. Activity graph adds temporal depth.
-     ============================================================ -->
+<h3 align="left">// tech stack</h3>
 
-## 📊 GitHub Stats
+<b>⚡ Current Focus</b>
+<p>
+  <img src="https://img.shields.io/badge/active-StyleShift%20%7C%20PAN%202025-10b981?style=flat-square&labelColor=0d1117" alt="StyleShift" />
+  <img src="https://img.shields.io/badge/active-QLoRA%20Fine--Tuning%20Pipelines-10b981?style=flat-square&labelColor=0d1117" alt="QLoRA" />
+  <img src="https://img.shields.io/badge/active-Evaluation%20Framework%20Design-10b981?style=flat-square&labelColor=0d1117" alt="Eval frameworks" />
+</p>
+
+<b>LLM & Agents</b>
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Gemini-3b82f6?style=flat-square" alt="Gemini" />
+  <img src="https://img.shields.io/badge/PEFT%2FQLoRA-3b82f6?style=flat-square" alt="PEFT/QLoRA" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
+
+<b>RAG & Data</b>
+<p>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/BGE--large-10b981?style=flat-square" alt="BGE-large" />
+  <img src="https://img.shields.io/badge/sentence--transformers-10b981?style=flat-square" alt="sentence-transformers" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+<b>ML · CV · NLP</b>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+<b>Backend & Web</b>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/WebSocket-10b981?style=flat-square" alt="WebSocket" />
+</p>
+
+<b>Languages & Infra</b>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-10b981?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+<br/>
+
+<h3 align="left">// github stats</h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Pranshu0204&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=e5e7eb&ring_color=10b981&count_private=true&include_all_commits=true" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranshu0204&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=6b7280&dates=6b7280" alt="streak stats" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Pranshu0204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranshu0204&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu0204&layout=compact&bg_color=0d1117&title_color=10b981&text_color=e5e7eb&hide_border=true" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu0204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranshu0204&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranshu0204&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranshu0204&theme=tokyonight&no-frame=true&column=6&margin-w=10" alt="trophies" />
+</p>
+
+<br/>
+
+<h3 align="left">// connect</h3>
+
+<p align="left">
+If you're building something where evaluation rigor matters — healthcare AI, LLM systems, agentic pipelines — my inbox is open. I'd rather see your failure cases than your demo video.
+<br/><br/>
+Currently benchmarking on PAN @ CLEF 2025 — if you're working on authorship analysis, forensic NLP, or style-based evaluation, I want to hear from you.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranshu0204&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-<!-- ============================================================
-     CONNECT BLOCK
-     Design decision: CTA names exactly the kind of work he wants —
-     LLM systems, healthcare AI, applied ML research. Specific asks
-     get specific replies; generic asks get nothing.
-     ============================================================ -->
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Pranshu0204">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Pranshu45581230">
-    <img src="https://img.shields.io/badge/Twitter%2FX-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Open to collaborations and roles in <b>LLM systems engineering</b>, <b>applied ML research</b>, and <b>responsible healthcare AI</b>.<br/>If you're shipping evaluation-first ML or building agentic systems with care for safety and bias — let's talk.</i>
-</p>
-
-<!-- ============================================================
-     FOOTER WAVE
-     Design decision: Matching close keeps the page framed.
-     Same gradient as the header, lighter height for balance.
-     ============================================================ -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,20,25&height=100&section=footer" alt="footer" />
 </p>
